@@ -52,7 +52,7 @@ input,button {font-family: 'Noto Sans JP', sans-serif;}
 .main_form .agree_item {display:flex;justify-content:space-between;align-items:center;width:100%;line-height:31px;}
 .main_form .agree_item input {display:none;}
 .main_form .agree_item label {display:block;cursor:pointer;padding-left: 35px;position: relative;}
-.main_form .agree_item label span {color:#555555;font-size:14px;}
+.main_form .agree_item label span {color:#555555;font-size:13px;}
 .main_form .agree_item label a {color:#a10004;text-decoration:none;}
 .main_form .agree_item label:before {content:"";display:inline-block;width:28px;height:28px;background:url(../img/input_checkbox.webp) 0 0 no-repeat;cursor:pointer;vertical-align:middle;margin-right:10px;position: absolute;top: 2px;left: 0px;}
 .main_form .agree_item input:checked + label:before {background-image:url(../img/input_checkbox_on.webp);}
@@ -188,7 +188,8 @@ input,button {font-family: 'Noto Sans JP', sans-serif;}
 
   .pop_policy_wrap {width:90%;max-height:85vh;height:auto;}
   .pop_policy_wrap .pop_body img {width:100%;}
-  .pop_policy_wrap .pop_body .policy_check {top: 63.4%;left: 31.5%; width: 37%; height: 5.5%;}
+  .pop_policy_wrap .pop_body .policy_check {top: 74.4%;left: 31.5%;width: 37.3%;height: 9%;}
+  .pop_policy .policy_sd {display:none;}
 }
 
 @media (max-width:350px) {
