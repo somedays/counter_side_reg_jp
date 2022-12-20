@@ -158,7 +158,7 @@ input,button {font-family: 'Noto Sans JP', sans-serif;}
   .main_form .form_input {height:31px;margin-top:2%;margin-bottom: 4%;background-color:#fff;}
   .main_form .form_input input {height:100%;background-color:transparent;font-size:15px;height:31px;border:2px solid #333333;}
   .main_form .form_input input:hover, .main_form .form_input .tel_input input:focus {box-shadow:none;}
-  .main_form .form_agree {padding:10px;zoom: .58;margin: 0;}
+  .main_form .form_agree {padding:10px;zoom: .57;margin: 0;}
   .main_form .form_btn {font-size:0;margin-top: 2%;}
   .main_form .form_btn button {height:auto;}
   .main_form .form_btn .form_btn_area {display:block;width:100%;}
